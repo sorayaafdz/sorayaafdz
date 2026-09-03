@@ -279,35 +279,6 @@ I completed the full **42 Madrid Common Core**, including mandatory and bonus re
 
 ---
 
-# 🧩 What I Bring
-
-My training has given me experience across several layers of software development:
-
-```text
-                    SOFTWARE DEVELOPMENT
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       SYSTEMS          BACKEND         FRONTEND
-          │                │                │
-       C / C++          Node.js          React
-       Unix             Express          TypeScript
-       Processes        REST             UI / UX
-       Threads          WebSockets       Responsive
-       Memory           PostgreSQL       State
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                       INFRASTRUCTURE
-                           │
-                   Linux · Docker
-                 Docker Compose · NGINX
-```
-
-This combination allows me to approach software from both the **low-level/system perspective** and the **application/full-stack perspective**.
-
----
-
 # 🎯 Currently Interested In
 
 I am particularly interested in opportunities involving:
