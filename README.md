@@ -1,10 +1,10 @@
 # Hi, I'm Soraya 👋
 
-### Software Developer | C/C++ | Full-Stack Development | Systems & Networking
+### Software Developer | C/C++ | Full-Stack Development 
 
-I’m a **Software Developer** with a strong foundation in low-level programming, systems, networking and software engineering, developed through the **42 Madrid Common Core**.
+I’m a **Software Developer** with a foundation in low-level programming, systems, networking and software engineering, developed through the **42 Madrid Common Core**.
 
-I have completed the **full Common Core curriculum**, working extensively with **C and C++** and expanding into **full-stack development, databases, networking, Docker and real-time applications**.
+I have completed the **full Common Core curriculum**, working with **C and C++** and expanding into **full-stack development, databases, networking, Docker and real-time applications**.
 
 My projects range from implementing core libraries and Unix utilities from scratch to building concurrent programs, networked applications, containerized infrastructures and full-stack real-time web applications.
 
