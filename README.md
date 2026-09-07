@@ -321,7 +321,9 @@ I’m especially interested in environments where I can continue developing stro
 If you'd like to discuss a project, opportunity or collaboration, feel free to get in touch.
 
 **GitHub:** [@sorayaafdz](https://github.com/sorayaafdz)
-**linkedin:** (www.linkedin.com/in/soraya-fernandez-ramirez)
+
+**linkedin:** www.linkedin.com/in/soraya-fernandez-ramirez
+
 **email:** sorayafernandezramirez@gmail.com
 
 ---
