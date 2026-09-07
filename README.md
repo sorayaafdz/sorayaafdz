@@ -326,9 +326,3 @@ If you'd like to discuss a project, opportunity or collaboration, feel free to g
 
 **email:** sorayafernandezramirez@gmail.com
 
----
-
-<p align="center">
-  <i>Building software from the low level up.</i>
-</p>
-
