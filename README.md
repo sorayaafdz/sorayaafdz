@@ -14,17 +14,17 @@ I enjoy understanding how software works **under the hood**, designing modular s
 
 ## 🧑‍💻 About Me
 
-* 🎓 **42 Madrid — Common Core completed**
-* 💻 Strong background in **C / C++**
-* 🌐 Full-stack development with **TypeScript, JavaScript and React**
-* ⚙️ Experience with **Linux, Unix systems, processes, threads and system calls**
-* 🌐 Networking and network programming
-* 🐳 Containerization with **Docker & Docker Compose**
-* 🗄️ Relational databases and SQL
-* 🔌 REST APIs and **WebSockets / Socket.IO**
-* 🧩 Algorithms, data structures and complexity analysis
-* 🛠️ Git, GitHub, Makefiles, debugging and software testing
-* 🤝 Experience working collaboratively on team-based projects
+* **42 Madrid — Common Core completed**
+* Strong background in **C / C++**
+* Full-stack development with **TypeScript, JavaScript and React**
+* Experience with **Linux, Unix systems, processes, threads and system calls**
+* Networking and network programming
+* Containerization with **Docker & Docker Compose**
+* Relational databases and SQL
+* REST APIs and **WebSockets / Socket.IO**
+* Algorithms, data structures and complexity analysis
+* Git, GitHub, Makefiles, debugging and software testing
+* Experience working collaboratively on team-based projects
 
 ---
 
